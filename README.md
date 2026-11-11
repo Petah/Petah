@@ -32,6 +32,17 @@ $ npx @petah/gamemaker-mcp gm-docs lookup draw_sprite
 An MCP server and CLI for searching the GameMaker docs, so AI assistants can look up GML functions. On npm as <a href="https://www.npmjs.com/package/@petah/gamemaker-mcp">@petah/gamemaker-mcp</a>.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://warpath.projectz.co.nz"><img src="images/warpath.webp" alt="The Warpath cockpit"></a>
+<br>
+<b><a href="https://github.com/Petah/warpath">Warpath</a></b><br>
+A browser remake of Synthetic Reality's 1990s space strategy game, started at Global Game Jam 2019. <a href="https://warpath.projectz.co.nz">Play it</a>
+</td>
+<td width="50%" valign="top">
+<b>More</b><br>
+<a href="https://github.com/Petah/generals.io-ai">generals.io bot</a>: an AI player for generals.io.<br>
+Global Game Jam entries: <a href="https://github.com/Petah/ggj2016">Argonauts</a> (2016), <a href="https://github.com/Petah/ggj2017">Viking Brawl</a> (2017), <a href="https://github.com/Petah/ggj2018">2018</a>.
+</td>
+</tr>
 </table>
-
-Also: a [generals.io bot](https://github.com/Petah/generals.io-ai), and [Global Game Jam](https://github.com/Petah/ggj2019) entries.

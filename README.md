@@ -60,6 +60,18 @@ A multiplayer drawing game for js13kGames 2019: guess the word as it's drawn bac
 A microbe battle game made with a team of six at Global Game Jam 2018. Keyboard or gamepads. <a href="https://dirty-little-bits.projectz.co.nz">Play it</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Petah/ggj20"><img src="images/repainter.webp" alt="Repairing a splattered painting in Repainter"></a>
+<br>
+<b><a href="https://github.com/Petah/ggj20">Repainter</a></b><br>
+Repair splattered paintings against the clock. Made at Global Game Jam 2020, with a Laravel API that scores how close you got.
+</td>
+<td width="50%" valign="top">
+<b>More</b><br>
+<a href="https://github.com/Petah/ggj22">Magnus Ludus</a>: a hex strategy game in GameMaker (Global Game Jam 2022).<br>
+<a href="https://github.com/Petah/generals.io-ai">generals.io bot</a>: an AI player for generals.io.<br>
+Earlier jams: <a href="https://github.com/Petah/ggj2016">Argonauts</a> (2016) and <a href="https://github.com/Petah/ggj2017">Viking Brawl</a> (2017).
+</td>
+</tr>
 </table>
-
-Also: a <a href="https://github.com/Petah/generals.io-ai">generals.io bot</a>, and Global Game Jam entries <a href="https://github.com/Petah/ggj2016">Argonauts</a> (2016) and <a href="https://github.com/Petah/ggj2017">Viking Brawl</a> (2017).

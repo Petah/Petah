@@ -54,9 +54,12 @@ A space shooter in under 13 KB, for js13kGames 2016. Play the CPU or a friend in
 A multiplayer drawing game for js13kGames 2019: guess the word as it's drawn backwards. Runs on Cloudflare Workers. <a href="https://backionary.projectz.co.nz">Play it</a>
 </td>
 <td width="50%" valign="top">
-<b>More</b><br>
-<a href="https://github.com/Petah/generals.io-ai">generals.io bot</a>: an AI player for generals.io.<br>
-Global Game Jam entries: <a href="https://github.com/Petah/ggj2016">Argonauts</a> (2016), <a href="https://github.com/Petah/ggj2017">Viking Brawl</a> (2017), <a href="https://github.com/Petah/ggj2018">2018</a>.
+<a href="https://dirty-little-bits.projectz.co.nz"><img src="images/dirty-little-bits.webp" alt="Microbes fighting in Dirty little bits"></a>
+<br>
+<b><a href="https://github.com/Petah/dirty-little-bits">Dirty little bits</a></b><br>
+A microbe battle game made with a team of six at Global Game Jam 2018. Keyboard or gamepads. <a href="https://dirty-little-bits.projectz.co.nz">Play it</a>
 </td>
 </tr>
 </table>
+
+Also: a <a href="https://github.com/Petah/generals.io-ai">generals.io bot</a>, and Global Game Jam entries <a href="https://github.com/Petah/ggj2016">Argonauts</a> (2016) and <a href="https://github.com/Petah/ggj2017">Viking Brawl</a> (2017).

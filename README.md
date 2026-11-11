@@ -40,6 +40,20 @@ An MCP server and CLI for searching the GameMaker docs, so AI assistants can loo
 A browser remake of Synthetic Reality's 1990s space strategy game, started at Global Game Jam 2019. <a href="https://warpath.projectz.co.nz">Play it</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://spacetime.projectz.co.nz"><img src="images/spacetime.webp" alt="Spacetime in play"></a>
+<br>
+<b><a href="https://github.com/Petah/spacetime">Spacetime</a></b><br>
+A space shooter in under 13 KB, for js13kGames 2016. Play the CPU or a friend in split screen. <a href="https://spacetime.projectz.co.nz">Play it</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://backionary.projectz.co.nz"><img src="images/backionary.webp" alt="A word being drawn backwards in Backionary"></a>
+<br>
+<b><a href="https://github.com/Petah/backionary">Backionary</a></b><br>
+A multiplayer drawing game for js13kGames 2019: guess the word as it's drawn backwards. Runs on Cloudflare Workers. <a href="https://backionary.projectz.co.nz">Play it</a>
+</td>
+<td width="50%" valign="top">
 <b>More</b><br>
 <a href="https://github.com/Petah/generals.io-ai">generals.io bot</a>: an AI player for generals.io.<br>
 Global Game Jam entries: <a href="https://github.com/Petah/ggj2016">Argonauts</a> (2016), <a href="https://github.com/Petah/ggj2017">Viking Brawl</a> (2017), <a href="https://github.com/Petah/ggj2018">2018</a>.
